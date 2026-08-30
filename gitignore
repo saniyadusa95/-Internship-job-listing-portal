@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables (contains JWT_SECRET, MongoDB URI)
+.env
+*/.env
+
+# Build output
+dist/
+*/dist/
+
+# Uploaded resumes (runtime data, not source)
+server/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
