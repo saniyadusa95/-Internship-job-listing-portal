@@ -142,7 +142,6 @@ The app will run at `http://localhost:5173`.
 
 ## Screenshots
 
-_Add screenshots of the Home page, Opportunity Details page, Login/Register, and Admin Dashboard here before final submission._
 
 ## Future Enhancements
 
@@ -152,4 +151,4 @@ _Add screenshots of the Home page, Opportunity Details page, Login/Register, and
 
 ## Author
 
-_Add your name, internship batch, and mentor name here._
+Saniya Dusa_
